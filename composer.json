@@ -4,7 +4,7 @@
   "description": "Symfony bundle that integrates the companies house rest api",
   "keywords": ["Companies House", "Symfony", "bundle"],
   "type": "symfony-bundle",
-  "homepage": "https://github.com/unfunkhttps://github.com/unfunk/CompaniesHouseBundle//CompaniesHouseBundle",
+  "homepage": "https://github.com/unfunk/CompaniesHouseBundle",
   "authors": [
     {
       "name": "Eduardo Conceição",
