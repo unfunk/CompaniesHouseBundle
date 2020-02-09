@@ -1,4 +1,4 @@
-wearescytale/companies-house-bundle{
+{
   "name": "unfunk/companies-house-bundle",
   "license": "MIT",
   "description": "Symfony bundle that integrates the companies house rest api",
