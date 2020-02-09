@@ -1,14 +1,18 @@
 {
-  "name": "wearescytale/companies-house-bundle",
+  "name": "unfunk/companies-house-bundle",
   "license": "MIT",
   "description": "Symfony bundle that integrates the companies house rest api",
   "keywords": ["Companies House", "Symfony", "bundle"],
   "type": "symfony-bundle",
-  "homepage": "https://github.com/wearescytale/CompaniesHouseBundle",
+  "homepage": "https://github.com/unfunkhttps://github.com/unfunk/CompaniesHouseBundle//CompaniesHouseBundle",
   "authors": [
     {
       "name": "Eduardo Conceição",
       "email": "eduardo.conceicao@gmail.com"
+    },
+    {
+      "name": "unfunk",
+      "email": "unfunk.ru@gmail.com",
     }
   ],
   "autoload": {
