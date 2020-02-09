@@ -1,4 +1,4 @@
-{
+wearescytale/companies-house-bundle{
   "name": "unfunk/companies-house-bundle",
   "license": "MIT",
   "description": "Symfony bundle that integrates the companies house rest api",
@@ -23,7 +23,7 @@
   "require": {
     "php": ">=5.6.0",
     "symfony/framework-bundle": ">=2.3",
-    "guzzlehttp/guzzle": ">=6.5.*",
+    "guzzlehttp/guzzle": "6.5.*",
     "symfony/serializer": ">=2.7.0"
   },
   "require-dev": {
