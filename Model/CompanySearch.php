@@ -183,11 +183,11 @@ class CompanySearch
     }
 
     /**
-     * @param string $companyStatus
+     * @param ?string $companyStatus
      *
      * @return CompanySearch
      */
-    public function setCompanyStatus(string $companyStatus): CompanySearch
+    public function setCompanyStatus(?string $companyStatus): CompanySearch
     {
         $this->companyStatus = $companyStatus;
 
